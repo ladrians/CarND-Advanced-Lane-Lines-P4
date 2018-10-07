@@ -1,8 +1,9 @@
 ## Advanced Lane Finding
 
-test_videos_output
-html
-P4.ipynb
-Project4_LucianoSilveira.pdf
+My solution for the [Project #4](https://github.com/udacity/CarND-Advanced-Lane-Lines.git)
 
+* [Writeup](./Project4.pdf)
+* [Code](./P4.ipynb)
+* [Sample videos](./test_videos_output)
+* [Sample html result](./html)
 
